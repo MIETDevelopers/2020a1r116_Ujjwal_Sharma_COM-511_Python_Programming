@@ -5,7 +5,7 @@ x=abs(-31.2)
 print(x)
 
 # len() function
-x=len("HelloUjjwal")
+x=len("Ujjwal")
 print(x)
 
 # min() function
