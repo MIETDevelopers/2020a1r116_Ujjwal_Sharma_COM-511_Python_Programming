@@ -9,4 +9,4 @@ for idx, ele in enumerate(test_list):
         res.append(list(reversed(ele)))
     else:
         res.append(ele)
-print("After reversing every Kth row : ", + str(res))
+print("After reversing every Kth row : " + str(res))
