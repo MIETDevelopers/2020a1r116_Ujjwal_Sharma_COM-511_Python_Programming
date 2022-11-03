@@ -11,7 +11,7 @@ elif (a == "F") or (a == "f"):
 
     C = (F - 32) * (5/9) 
 
-    print("Temperature in Farenheit is : %.2f C" %(C))
+    print("Temperature in Celsius is : %.2f C" %(C))
     
 else:
     print("Please Enter the Valid Input...!!!")
